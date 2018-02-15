@@ -1,0 +1,16 @@
+git
+rsync
+PyYAML
+libselinux-python
+python-virtualenv
+gcc
+openssl-devel
+redhat-rpm-config
+libffi-devel
+python-devel
+python-pycurl
+python-simplejson
+util-linux
+python-requests
+python34
+python34-devel
