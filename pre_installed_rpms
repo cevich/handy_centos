@@ -1,5 +1,6 @@
 PyYAML
 curl
+findutils
 gcc
 git
 libffi-devel
